@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,500;1,14..32,500&display=swap');
+@import "tailwindcss";
+@import "../css/space-grotesk.css";
+
+:root{
+    --font-inter: 'Inter', sans-serif;
+    --font-space-grotesk: 'SpaceGrotesk', sans-serif;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
