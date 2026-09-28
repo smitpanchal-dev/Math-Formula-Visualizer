@@ -72,7 +72,7 @@ const Navbar = () => {
               title="Sign In / Sign Up"
             >
               <img
-                src="/src/assets/icons/user3.png"
+                src="/src/assets/icons/user12.png"
                 alt="User profile"
                 className="w-6 h-6 sm:w-7 sm:h-7 object-contain"
               />
